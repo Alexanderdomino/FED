@@ -4,6 +4,7 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:TheDeptBook"
+        xmlns:viewModel="clr-namespace:TheDeptBook"
         mc:Ignorable="d"
         Title="ContactWindow" Height="200" Width="250">
     <Window.Resources>
@@ -11,6 +12,9 @@
         <Thickness x:Key="TblkMargin">0,10,0,-10</Thickness>
         <Thickness x:Key="ButtonMargin">10,0,10,0</Thickness>
     </Window.Resources>
+    <Window.DataContext>
+        <viewModel:ContactWindowViewModel></viewModel:ContactWindowViewModel>
+    </Window.DataContext>
     
     <StackPanel>
         <StackPanel.Resources>
@@ -30,14 +34,14 @@
             <TextBlock>
             Enter Name of Contact:
         </TextBlock>
-        <TextBox>
+        <TextBox Name = "TboxName">
             Name
         </TextBox>
 
         <TextBlock>
             Enter initial value:
         </TextBlock>
-        <TextBox>
+        <TextBox Name = "TboxValue">
             Value
         </TextBox>
         
@@ -47,14 +51,15 @@
         <StackPanel Orientation="Horizontal"
                     HorizontalAlignment="Center">
             <Button Name="SaveButton" 
-                    Width="40"
+                    Width="60"
                     Command="{Binding AddCommand}">
                 Save
             </Button>
 
             <Button Name="CancelButton" 
-                    Width="40"
-                    Command = "{Binding CloseAddContactCommand}">
+                    Width="60"
+                    Command = "{Binding CloseAddContactCommand}"
+                    CommandParameter="{Binding ElementName=ContactWindow}">
                 Cancel
             </Button>
         </StackPanel>

@@ -11,25 +11,27 @@ namespace TheDeptBook
 {
     public partial class MainViewModel : ObservableObject
     {
-
         public MainViewModel() {
-            contacts.Add(new Contact("0", "Nina", 120000));
-            contacts.Add(new Contact("1", "Bob", 130000));
+            Contacts.Add(new Contact("0", "Nina", 120000));
+            Contacts.Add(new Contact("1", "Bob", 130000));
             CurrentContact = contacts[0];
+            
         }
 
         //------------Commands------------//
         [RelayCommand]
         void OpenAddContact()
         {
-            ContactWindow objContactWindow = new();
-            objContactWindow.Show();
+            ObjContactWindow.Show();
         }
 
         //-----------Properties-----------//
 
         [ObservableProperty]
         ObservableCollection<Contact> contacts = new();
+        
+        [ObservableProperty]
+        ContactWindow objContactWindow = new();
 
         [ObservableProperty]
         Contact? currentContact = null;

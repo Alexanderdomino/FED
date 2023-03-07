@@ -49,3 +49,4 @@ C:\Users\Alexander\OneDrive\4. Semester\FED\TheDeptBook\TheDeptBook\obj\Debug\ne
 C:\Users\Alexander\OneDrive\4. Semester\FED\TheDeptBook\TheDeptBook\obj\Debug\net7.0-windows\MVVM\View\ContactWindow.baml
 C:\Users\Alexander\OneDrive\4. Semester\FED\TheDeptBook\TheDeptBook\obj\Debug\net7.0-windows\MVVM\View\MainWindow.baml
 C:\Users\Alexander\OneDrive\4. Semester\FED\TheDeptBook\TheDeptBook\obj\Debug\net7.0-windows\App.baml
+C:\Users\Alexander\OneDrive\4. Semester\FED\TheDeptBook\TheDeptBook\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
