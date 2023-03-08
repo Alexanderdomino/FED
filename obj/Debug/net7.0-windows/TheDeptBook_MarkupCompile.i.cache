@@ -1,5 +1,5 @@
 ﻿TheDeptBook
-
+1.0.0.0
 
 winexe
 C#
@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET7_0;NETCOREAPP
 C:\Users\Alexander Domino\Documents\SW4FED\FED\App.xaml
 3-1312899080
 
-91520731019
+11-655993436
 199-1413124976
 MVVM\View\ContactWindow.xaml;MVVM\View\MainWindow.xaml;MVVM\View\TransactionWindow.xaml;
 
-False
+True
 

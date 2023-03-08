@@ -19,7 +19,7 @@ namespace TheDeptBook.MVVM.ViewModel
         {
             Trace.WriteLine("trying to add contact");
             Contacts.Add(new Contact("3", "Muddi fra bæst", 200));
-            Trace.WriteLine("e");
+            Trace.WriteLine("should have been added here");
         }
     }
 }
