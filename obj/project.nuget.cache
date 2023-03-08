@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YSf6+GvWoguQzBEweHSEQqFofy+arIYo+N/dd45zxWTYCPZ9tqRuagnKnLz9lmExvYpKJzWv1Ik6uhE+1cpkaQ==",
+  "dgSpecHash": "TxlICaH2j5PpmkLsXBnX68XIO8qKDrXGJeSB0Azaf4DNVlN6aRUXLTD9Fjcb6EwJdceOBPFjpL7d+ORs/zv7nw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alexander\\OneDrive\\4. Semester\\FED\\TheDeptBook\\TheDeptBook\\TheDeptBook.csproj",
+  "projectFilePath": "C:\\Users\\Alexander\\Documents\\FED\\TheDeptBook\\TheDeptBook\\TheDeptBook.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alexander\\.nuget\\packages\\communitytoolkit.mvvm\\8.1.0\\communitytoolkit.mvvm.8.1.0.nupkg.sha512"
   ],

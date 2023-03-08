@@ -50,3 +50,32 @@ C:\Users\Alexander\OneDrive\4. Semester\FED\TheDeptBook\TheDeptBook\obj\Debug\ne
 C:\Users\Alexander\OneDrive\4. Semester\FED\TheDeptBook\TheDeptBook\obj\Debug\net7.0-windows\MVVM\View\MainWindow.baml
 C:\Users\Alexander\OneDrive\4. Semester\FED\TheDeptBook\TheDeptBook\obj\Debug\net7.0-windows\App.baml
 C:\Users\Alexander\OneDrive\4. Semester\FED\TheDeptBook\TheDeptBook\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Alexander\Documents\FED\TheDeptBook\TheDeptBook\bin\Debug\net7.0-windows\TheDeptBook.exe
+C:\Users\Alexander\Documents\FED\TheDeptBook\TheDeptBook\bin\Debug\net7.0-windows\TheDeptBook.deps.json
+C:\Users\Alexander\Documents\FED\TheDeptBook\TheDeptBook\bin\Debug\net7.0-windows\TheDeptBook.runtimeconfig.json
+C:\Users\Alexander\Documents\FED\TheDeptBook\TheDeptBook\bin\Debug\net7.0-windows\TheDeptBook.dll
+C:\Users\Alexander\Documents\FED\TheDeptBook\TheDeptBook\bin\Debug\net7.0-windows\TheDeptBook.pdb
+C:\Users\Alexander\Documents\FED\TheDeptBook\TheDeptBook\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Alexander\Documents\FED\TheDeptBook\TheDeptBook\obj\Debug\net7.0-windows\TheDeptBook.csproj.AssemblyReference.cache
+C:\Users\Alexander\Documents\FED\TheDeptBook\TheDeptBook\obj\Debug\net7.0-windows\App.baml
+C:\Users\Alexander\Documents\FED\TheDeptBook\TheDeptBook\obj\Debug\net7.0-windows\MVVM\View\ContactWindow.g.cs
+C:\Users\Alexander\Documents\FED\TheDeptBook\TheDeptBook\obj\Debug\net7.0-windows\MVVM\View\MainWindow.g.cs
+C:\Users\Alexander\Documents\FED\TheDeptBook\TheDeptBook\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Alexander\Documents\FED\TheDeptBook\TheDeptBook\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Alexander\Documents\FED\TheDeptBook\TheDeptBook\obj\Debug\net7.0-windows\TheDeptBook_MarkupCompile.cache
+C:\Users\Alexander\Documents\FED\TheDeptBook\TheDeptBook\obj\Debug\net7.0-windows\MVVM\View\ContactWindow.baml
+C:\Users\Alexander\Documents\FED\TheDeptBook\TheDeptBook\obj\Debug\net7.0-windows\MVVM\View\MainWindow.baml
+C:\Users\Alexander\Documents\FED\TheDeptBook\TheDeptBook\obj\Debug\net7.0-windows\TheDeptBook.g.resources
+C:\Users\Alexander\Documents\FED\TheDeptBook\TheDeptBook\obj\Debug\net7.0-windows\TheDeptBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Documents\FED\TheDeptBook\TheDeptBook\obj\Debug\net7.0-windows\TheDeptBook.AssemblyInfoInputs.cache
+C:\Users\Alexander\Documents\FED\TheDeptBook\TheDeptBook\obj\Debug\net7.0-windows\TheDeptBook.AssemblyInfo.cs
+C:\Users\Alexander\Documents\FED\TheDeptBook\TheDeptBook\obj\Debug\net7.0-windows\TheDeptBook.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Documents\FED\TheDeptBook\TheDeptBook\obj\Debug\net7.0-windows\TheDeptBook.csproj.CopyComplete
+C:\Users\Alexander\Documents\FED\TheDeptBook\TheDeptBook\obj\Debug\net7.0-windows\TheDeptBook.dll
+C:\Users\Alexander\Documents\FED\TheDeptBook\TheDeptBook\obj\Debug\net7.0-windows\refint\TheDeptBook.dll
+C:\Users\Alexander\Documents\FED\TheDeptBook\TheDeptBook\obj\Debug\net7.0-windows\TheDeptBook.pdb
+C:\Users\Alexander\Documents\FED\TheDeptBook\TheDeptBook\obj\Debug\net7.0-windows\TheDeptBook.genruntimeconfig.cache
+C:\Users\Alexander\Documents\FED\TheDeptBook\TheDeptBook\obj\Debug\net7.0-windows\ref\TheDeptBook.dll
+C:\Users\Alexander\Documents\FED\TheDeptBook\TheDeptBook\obj\Debug\net7.0-windows\TheDeptBook_MarkupCompile.lref
+C:\Users\Alexander\Documents\FED\TheDeptBook\TheDeptBook\obj\Debug\net7.0-windows\MVVM\View\ContactHistoryWindow.g.cs
+C:\Users\Alexander\Documents\FED\TheDeptBook\TheDeptBook\obj\Debug\net7.0-windows\MVVM\View\ContactHistoryWindow.baml

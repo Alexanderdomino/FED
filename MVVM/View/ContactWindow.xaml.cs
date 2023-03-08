@@ -22,7 +22,7 @@ namespace TheDeptBook
         public ContactWindow()
         {
             InitializeComponent();
-            DataContext = new ContactWindowViewModel();
+            DataContext = new MVVM.ViewModel.ContactWindowViewModel();
         }
     }
 }

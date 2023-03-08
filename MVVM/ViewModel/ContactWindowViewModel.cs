@@ -1,28 +1,25 @@
-﻿using System.Runtime.Serialization;
-using System.Windows;
-using CommunityToolkit.Mvvm.ComponentModel;
+﻿using System;
+using System.Diagnostics;
 using CommunityToolkit.Mvvm.Input;
+using CommunityToolkit.Mvvm.ComponentModel;
 
-namespace TheDeptBook
+namespace TheDeptBook.MVVM.ViewModel
 {
-    public partial class ContactWindowViewModel : MainViewModel
+    public partial class ContactWindowViewModel : MVVM.ViewModel.MainViewModel
     {
-        public ContactWindowViewModel()
-        {
-            
-        }
-
-
+        
         [RelayCommand]
         void CloseAddContact()
         {
-            ObjContactWindow.Hide();
+            //implement close
         }
 
         [RelayCommand]
         void Add()
         {
-            Contacts.Add(new Contact("3","Muddi",-200));
+            Trace.WriteLine("trying to add contact");
+            Contacts.Add(new Contact("3", "Muddi fra bæst", 200));
+            Trace.WriteLine("e");
         }
     }
 }

@@ -3,8 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:TheDeptBook"
-        xmlns:viewModel="clr-namespace:TheDeptBook"
+        xmlns:viewmodel="clr-namespace:TheDeptBook.MVVM.ViewModel" d:DataContext="{d:DesignInstance Type=viewmodel:ContactWindowViewModel}"
         mc:Ignorable="d"
         Title="ContactWindow" Height="200" Width="250">
     <Window.Resources>
@@ -12,9 +11,7 @@
         <Thickness x:Key="TblkMargin">0,10,0,-10</Thickness>
         <Thickness x:Key="ButtonMargin">10,0,10,0</Thickness>
     </Window.Resources>
-    <Window.DataContext>
-        <viewModel:ContactWindowViewModel></viewModel:ContactWindowViewModel>
-    </Window.DataContext>
+
     
     <StackPanel>
         <StackPanel.Resources>
@@ -58,8 +55,7 @@
 
             <Button Name="CancelButton" 
                     Width="60"
-                    Command = "{Binding CloseAddContactCommand}"
-                    CommandParameter="{Binding ElementName=ContactWindow}">
+                    Command = "{Binding CloseAddContactCommand}">
                 Cancel
             </Button>
         </StackPanel>

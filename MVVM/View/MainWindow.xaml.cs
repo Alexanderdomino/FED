@@ -23,7 +23,7 @@ namespace TheDeptBook
         public MainWindow()
         {
             InitializeComponent();
-            DataContext = new MainViewModel();
+            DataContext = new MVVM.ViewModel.MainViewModel();
         }
 
     }
